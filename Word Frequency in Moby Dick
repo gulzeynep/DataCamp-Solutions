@@ -1,4 +1,6 @@
-
+# In this workspace, scrape the novel Moby Dick from the website [Project Gutenberg](https://www.gutenberg.org/) 
+# (which contains a large corpus of books) using the Python `requests` package. 
+# extract words from this web data using `BeautifulSoup` before analyzing the distribution of words using the Natural Language ToolKit (`nltk`) and `Counter`.
 
 # Import and download packages
 import requests
